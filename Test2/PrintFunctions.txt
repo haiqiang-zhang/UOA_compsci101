@@ -1,0 +1,12 @@
+#For Q12
+def print_board(board):
+    for row in board:
+        print(row)
+
+#For Q14
+def print_prime_list(a_list):
+    for i in range(len(a_list)):
+        if i != len(a_list) - 1:
+            print(a_list[i],end = " * ")
+        else:
+            print(a_list[i])

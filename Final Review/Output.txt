@@ -1,0 +1,8 @@
+Bart - 1000
+Gill - 1000
+Kim - 850
+Lucy - 850
+Ken - 700
+Mele - 700
+Ronald - 450
+Alfonso - 200

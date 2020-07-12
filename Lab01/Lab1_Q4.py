@@ -1,0 +1,10 @@
+loan_amount = 650000
+annual_interest_rate = 5
+loan_length_years = 20
+months_per_year = 12
+n = months_per_year * loan_length_years
+i = annual_interest_rate/months_per_year
+fraction_above = (i/100)*((1+i/100)**n)
+fraction_below = (1+i/100)**n-1
+p = round(loan_amount*(fraction_above/fraction_below))
+print("You will need to pay $",p," monthly",sep="")

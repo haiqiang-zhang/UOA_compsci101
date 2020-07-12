@@ -1,0 +1,6 @@
+1:white
+2:red
+3:bisque
+4:tan4
+5:green
+6:black
