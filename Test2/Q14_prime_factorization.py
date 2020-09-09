@@ -53,3 +53,6 @@ n = 56
 prime_list = prime_factorization(n)
 print(n,"is the product of the following primes:",end=" ")
 print_prime_list(prime_list)
+
+
+
